@@ -126,6 +126,9 @@ const Home = () => {
                             </a>
                                 </Col>
                             </Row>
+                            <Row>
+                                <p className='my-3 text-white'>If download button doesn't work, <a href="https://drive.google.com/drive/folders/1kENLvvIxQ0nl6dgAESUtF863odZ5J77D?usp=share_link">click here.</a></p>
+                            </Row>
                            
                         </Col>
                     </Row>

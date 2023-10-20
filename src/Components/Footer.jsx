@@ -59,7 +59,7 @@ const Footer = () => {
                 <a href="https://www.youtube.com/@learntocodeph"><i className="fa-brands fa-youtube text-white"></i></a>
               </li>
               <li className="list-inline-item">
-                <a href="https://github.com/Emmanuel-Mingala/nsc.git"><i className="fa-brands fa-github text-white"></i></a>
+                <a href="https://github.com/emmanyouwell/Guess-The-Song"><i className="fa-brands fa-github text-white"></i></a>
               </li>
             </ul>
           </div>
