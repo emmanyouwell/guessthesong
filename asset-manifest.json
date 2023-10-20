@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "http://emmanyouwell.github.io/guessthesong/static/css/main.377808be.css",
-    "main.js": "http://emmanyouwell.github.io/guessthesong/static/js/main.04ae8c6f.js",
+    "main.js": "http://emmanyouwell.github.io/guessthesong/static/js/main.276f0782.js",
     "static/media/gui.png": "http://emmanyouwell.github.io/guessthesong/static/media/gui.492e5964ad7addcbf5be.png",
     "index.html": "http://emmanyouwell.github.io/guessthesong/index.html",
     "main.377808be.css.map": "http://emmanyouwell.github.io/guessthesong/static/css/main.377808be.css.map",
-    "main.04ae8c6f.js.map": "http://emmanyouwell.github.io/guessthesong/static/js/main.04ae8c6f.js.map"
+    "main.276f0782.js.map": "http://emmanyouwell.github.io/guessthesong/static/js/main.276f0782.js.map"
   },
   "entrypoints": [
     "static/css/main.377808be.css",
-    "static/js/main.04ae8c6f.js"
+    "static/js/main.276f0782.js"
   ]
 }
